@@ -1,0 +1,4 @@
+.flatpickr-months .flatpickr-prev-month,
+.flatpickr-months .flatpickr-next-month {
+  top: auto;
+}
